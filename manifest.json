@@ -1,13 +1,10 @@
 {
   "name": "MUTHU TET-TRB Test Batch",
   "short_name": "MUTHU TET",
-  "description": "Educational Test Batch Portal",
-  "start_url": "/YOUR_REPO_NAME/index.html",
-  "scope": "/YOUR_REPO_NAME/",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#00BFFF",
-  "orientation": "portrait",
   "icons": [
     {
       "src": "icon-192.png",
